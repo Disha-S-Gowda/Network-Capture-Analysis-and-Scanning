@@ -1,4 +1,4 @@
-# Network-Capture-Analysis-and-Scanning
+# Network Capture Analysis and Scanning
 
 The "Network Capture, Analysis, and Scanning" project is a comprehensive exploration of various tools and techniques used in network security and traffic analysis. Through a series of immersive labs, the lab made me delve into the functionalities of tools like Wireshark, tcpdump, and BPF (Berkeley Packet Filter) syntax, gaining hands-on experience in capturing, analyzing, and filtering network traffic.
 
